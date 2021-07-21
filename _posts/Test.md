@@ -1,10 +1,25 @@
 ---
-title: 2021-07-21未命名文件 
-tags: 新建,模板,小书匠
-category: /小书匠/日记/2021-07
-renderNumberedHeading: true
-grammar_cjkRuby: true
+---
+layout: post
+title: Test
+date: 2019-01-01 00:00:00 +0800
+category: tutorial
+thumbnail: /style/image/thumbnail.png
+icon: book
 ---
 
 
-欢迎使用 **{小书匠}(xiaoshujiang)编辑器**，您可以通过 `小书匠主按钮>模板` 里的模板管理来改变新建文章的内容。
+* content
+{:toc}
+
+## sub title
+
+page...
+
+## about thumbnail
+
+add the thumbnail url
+
+## about icon
+
+such as book, code, web, chat, note, game, link, design, image
