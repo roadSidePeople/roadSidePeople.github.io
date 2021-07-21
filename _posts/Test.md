@@ -9,6 +9,3 @@ icon: book
 
 
 * content
-{:toc}
-
-## sub title
