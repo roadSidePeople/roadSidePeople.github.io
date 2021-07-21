@@ -12,8 +12,3 @@ icon: book
 {:toc}
 
 ## sub title
-
-page...
-## about icon
-
-such as book, code, web, chat, note, game, link, design, image
